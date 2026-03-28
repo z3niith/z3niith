@@ -10,7 +10,7 @@
 - Cybersecurity
 - Data Analysis
 
-## Currently Working On:
+## Currently Working On
 
 - [C.T. Flag](https://z3niith.github.io/capturetheflag/)
 - [.M3U8 D&C](https://github.com/z3niith/M3U8-Downloader-and-Converter)
