@@ -24,8 +24,11 @@
 
 ![Z3niith](https://count.getloli.com/@z3niith?name=z3niith&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
+
 ## 👀 Some Cool Stuff to Explore
 
 Feel free to browse the pinned projects below.
 
-![Z3niith](https://tenor.com/view/rem-re-zero-re-0-dance-cute-rem-gif-3674583200925974830)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=z3niith)](https://github.com/anuraghazra/github-readme-stats)
+
+![Z3niith](https://media.tenor.com/Mv6989TPgS4AAAAj/rem-re-zero.gif)
