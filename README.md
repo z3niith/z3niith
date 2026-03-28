@@ -29,6 +29,4 @@
 
 Feel free to browse the pinned projects below.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=z3niith)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Z3niith](https://media.tenor.com/Mv6989TPgS4AAAAj/rem-re-zero.gif)
