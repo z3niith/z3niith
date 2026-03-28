@@ -7,6 +7,7 @@
 
 ## 📮 How to Reach Me
 
+- LinkedIn: [LinkedIn] (https://www.linkedin.com/in/elengegermain)
 - Twitter: [@Lakr233](https://twitter.com/Lakr233)
 - Email: [Follow Up Here](mailto:launchctl@outlook.com)
 
