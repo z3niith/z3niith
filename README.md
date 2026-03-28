@@ -27,3 +27,5 @@
 ## 👀 Some Cool Stuff to Explore
 
 Feel free to browse the pinned projects below.
+
+![Z3niith](https://tenor.com/view/rem-re-zero-re-0-dance-cute-rem-gif-3674583200925974830)
