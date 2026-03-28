@@ -1,29 +1,19 @@
 # Hello World
 
-- Developer & Designer & Product [@FlowDown](https://flowdown.ai)
-- Indie Hacker - Previous [@OwnGoalStudio](https://github.com/OwnGoalStudio)
-- Senior Software Developer @ Mobile Platforms
-- Junior Game Developer
+- Computer Science Freshman
+- Visiting Electrical & Computer Engineering Researcher - Previous @ [Johns Hopkins University](https://www.linkedin.com/school/johns-hopkins-whiting-school-of-engineering/)
 
 ## 📮 How to Reach Me
 
-- LinkedIn: [LinkedIn] (https://www.linkedin.com/in/elengegermain)
-- Twitter: [@Lakr233](https://twitter.com/Lakr233)
-- Email: [Follow Up Here](mailto:launchctl@outlook.com)
+- LinkedIn: [@Lakr233](https://www.linkedin.com/in/elengegermain) 
 
 ## Magic Number
 
 ![Z3niith](https://count.getloli.com/@z3niith?name=z3niith&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-## 🤖 Agent Code Navigation
-
-- [Agent Code Navigation](./AGENTS.md)
-- A curated index of public repositories under permissive licenses
-- Shows each repository's license and the parts most useful for agents to study or reuse
-
 ## 👀 Some Cool Stuff to Explore
 
-Feel free to open the agent navigation above, or browse the pinned projects below.
+Feel free to browse the pinned projects below.
 
 
 <!--
