@@ -8,6 +8,7 @@
 - Software Development/Engineering
 - Backend Development
 - Cybersecurity
+- Mechanics
 - Data Analysis
 
 ## Currently Working On
