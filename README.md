@@ -1,6 +1,6 @@
 # Hello World
 
-- Computer Science Freshman
+- Computer Science & Mechanical Engineering Double Major Freshman
 - Visiting Electrical & Computer Engineering Researcher - Previous @ [Johns Hopkins University](https://www.linkedin.com/school/johns-hopkins-whiting-school-of-engineering/)
 
 ## Fields Interested In
