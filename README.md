@@ -1,7 +1,7 @@
 # Hello World
 
 - Computer Science & Mechanical Engineering Double Major Freshman
-- Visiting Electrical & Computer Engineering Researcher - Previous @ [Johns Hopkins University](https://www.linkedin.com/school/johns-hopkins-whiting-school-of-engineering/)
+- Visiting Electrical & Computer Engineering Researcher in the Networks, Dynamics, and Learning Laboratory (NetD$L^2$ab) - Previous @ [Johns Hopkins University](https://www.linkedin.com/school/johns-hopkins-whiting-school-of-engineering/)
 
 ## Fields Interested In
 
@@ -20,7 +20,7 @@
 
 ## 📮 How to Reach Me
 
-- LinkedIn: [Elenge Germain](https://www.linkedin.com/in/elengegermain) 
+- LinkedIn: [German English](https://www.linkedin.com/in/elengegermain) 
 
 ## Magic Number
 
