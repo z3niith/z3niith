@@ -20,7 +20,7 @@
 
 ## 📮 How to Reach Me
 
-- LinkedIn: [German English](https://www.linkedin.com/in/elengegermain) 
+- LinkedIn: [Elenge Germain](https://www.linkedin.com/in/elengegermain) 
 
 ## Magic Number
 
