@@ -1,6 +1,6 @@
 # Hello World
 
-- Computer Science & Mechanical Engineering Double Major Freshman
+- Computer Science & Mechanical Engineering Student
 - Visiting Electrical & Computer Engineering Researcher in the Networks, Dynamics, and Learning Laboratory (NetDL2ab) - Previous @ [Johns Hopkins University](https://www.linkedin.com/school/johns-hopkins-whiting-school-of-engineering/)
 
 ## Fields Interested In
