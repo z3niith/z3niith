@@ -13,7 +13,6 @@
 ## Currently Working On
 
 - [Timetable Timer](https://github.com/z3niith/timetable)
-- [C.T. Flag (orphaned)](https://z3niith.github.io/capturetheflag/)
 - [.M3U8 D&C](https://github.com/z3niith/M3U8-Downloader-and-Converter)
 - [Exercism](https://github.com/z3niith/Exercism)
 - Contributing @ [Aidoku](https://github.com/Aidoku-Community/sources)
