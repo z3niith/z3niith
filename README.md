@@ -21,7 +21,7 @@
 
 ## 📮 How to Reach Me
 
-- LinkedIn: [Elenge Germain](https://www.linkedin.com/in/elengegermain) 
+- via chat 
 
 ## Magic Number
 
