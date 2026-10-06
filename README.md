@@ -29,5 +29,6 @@
 ## 👀 Some Cool Stuff to Explore
 
 Feel free to browse the pinned projects below.
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ig4akhwyt8i8dxb3muyvsos52&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
 ![Z3niith](https://media.tenor.com/Mv6989TPgS4AAAAj/rem-re-zero.gif)
