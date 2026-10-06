@@ -30,4 +30,4 @@
 ![Z3niith](https://count.getloli.com/@z3niith?name=z3niith&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ## ▶ Now Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ig4akhwyt8i8dxb3muyvsos52&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ig4akhwyt8i8dxb3muyvsos52&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ig4akhwyt8i8dxb3muyvsos52&redirect=true)
