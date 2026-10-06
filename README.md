@@ -23,7 +23,7 @@
 
 |Community|Language|
 |---|---|
-|<img src="https://github-readme-stats.vercel.app/api?username=JimHans&show_icons=true&theme=github_dark&hide_title=false" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimHans&layout=compact&hide=html&theme=github_dark&langs_count=8" style="height:195px;cursor:default" />|
+|<img src="https://github-readme-stats.vercel.app/api?username=z3niith&show_icons=true&theme=github_dark&hide_title=false" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3niith&layout=compact&hide=html&theme=github_dark&langs_count=8" style="height:195px;cursor:default" />|
 
 ## Magic Number
 
