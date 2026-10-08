@@ -5,7 +5,7 @@
 
 - Mechanical Engineering
 - Computer Science
-- Visiting Electrical & Computer Engineering Researcher in Networks, Dynamics & Learning Laboratory (NetDL2ab) - Previous @ [Johns Hopkins University](https://www.linkedin.com/school/johns-hopkins-whiting-school-of-engineering/)
+- Visiting Electrical & Computer Engineering Researcher in Networks, Dynamics & Learning Laboratory (NetDL<sup>2</sup>ab) - Previous @ [Johns Hopkins University](https://www.linkedin.com/school/johns-hopkins-whiting-school-of-engineering/)
 
 ## 🗃 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
